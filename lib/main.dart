@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget
       (
         colorScheme: ColorScheme.fromSeed
         (
-          seedColor: Colors.deepOrange,
+          seedColor: const Color.fromARGB(255, 63, 34, 255),
           brightness: Brightness.light,
         ),
       ),
